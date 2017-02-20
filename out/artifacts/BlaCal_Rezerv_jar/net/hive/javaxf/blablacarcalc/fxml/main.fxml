@@ -111,7 +111,7 @@
       <VBox.margin>
          <Insets />
       </VBox.margin>
-      <Button fx:id="considerId" defaultButton="true" mnemonicParsing="false" onAction="#considerClick" text="Посчитать" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="0.0" />
+      <Button fx:id="considerId" mnemonicParsing="false" onAction="#considerClick" text="Посчитать" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="0.0" />
    </AnchorPane>
    <effect>
       <Blend />
