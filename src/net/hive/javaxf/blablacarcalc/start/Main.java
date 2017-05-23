@@ -11,7 +11,7 @@ public class Main extends Application {
 
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(this.getClass().getResource("/net/hive/javaxf/blablacarcalc/fxml/main.fxml"));
-        primaryStage.setTitle("Calculator v.1.0");
+        primaryStage.setTitle("Calculator v.1.5");
         primaryStage.setMinHeight(450);
         primaryStage.setMinWidth(300);
         primaryStage.setMaxHeight(450);
